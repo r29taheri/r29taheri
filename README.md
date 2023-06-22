@@ -66,6 +66,7 @@ Additionally, I had the opportunity to contribute to other web3 projects such as
 - 🎨 UI Libraries: Material UI, Angular Material, TailwindCSS, Chakra UI, StoryBook
 - ⛓️ Web3 Libraries: Ether.js, web3.js, Wagmi, WalletConnect
 - 🚦 State Management: Redux, Zustand
+- ➰ Reactive Programming: RxJS
 - 📚 Version Control: Git
 
 ## 🔗 LinkedIn
