@@ -61,6 +61,7 @@ Additionally, I had the opportunity to contribute to other web3 projects such as
 
 ## 💪 Skills
 - 💻 Languages: JavaScript, TypeScript
+- 🌐 Markup and Styling: HTML5, CSS3, SASS/SCSS, CSS-in-JS
 - ⚛️ Frameworks: React.js, Next.js, Angular, Vue.js
 - 🧪 Testing Libraries: Jest, Vitest, Cypress
 - 🎨 UI Libraries: Material UI, Angular Material, TailwindCSS, Chakra UI, StoryBook
