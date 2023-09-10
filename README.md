@@ -6,15 +6,19 @@ Bachelor's degree in Computer Software Engineering.
 
 ## 💼 Experience
 
-### PayGear (Mid Frontend Developer)
-- 🚀 Worked with Angular.js, Bootstrap, and Gulp.js.
-- ⚡ Successfully migrated the project to Angular 2+ (specifically Angular 4).
-- 🌟 Expanded skill set with Vue.js, Nuxt.js, Node.js, Express.js, and MongoDB through a merger with another startup.
+### Planview (Senior Frontend Developer)
+- 👥 Collaborating with the team to ensure development success.
+- ⚛️ Primarily focused on JavaScript, TypeScript, and React.js.
 
-### Global Solution Armenia (Senior Frontend Developer)
-- 🌍 Worked with different technologies such as JavaScript, TypeScript, Angular, Vue.js, and React.js.
-- 🤝 Communicated directly with clients to ensure projects were completed to satisfaction and on time.
-- 👨‍🏫 Mentored and guided interns, teaching them the necessary skills and knowledge for real tasks.
+### Ludia (Senior Frontend Developer)
+- 🎮 Worked on the internal web application that supervised and managed the company's games, utilizing Angular for development and maintenance.
+- 🚀 Developed and maintained the internal web application for game management.
+- 🔄 Collaborated on agile projects using JIRA, Confluence, Bitbucket.
+
+### Amygdalab (Senior Frontend Developer -> Lead Frontend Developer)
+- 🌐 Developed web applications using JavaScript, TypeScript, React.js, and Material-UI.
+- 📱 Led the development of a KYC platform that seamlessly operated on mobile devices and across various browsers.
+- 🏢 Assumed a leadership role as the team grew.
 
 ### Develandoo (Senior Frontend Developer)
 - 📊 Created a dashboard for a client using React.js and Plotly.js.
@@ -22,15 +26,15 @@ Bachelor's degree in Computer Software Engineering.
 - 💻 Responsible for developing and implementing the user interface.
 - 👥 Collaborated with the development team to complete the project on time and within budget.
 
-### Amygdalab (Senior Frontend Developer -> Lead Frontend Developer)
-- 🌐 Developed web applications using JavaScript, TypeScript, React.js, and Material-UI.
-- 📱 Led the development of a KYC platform that seamlessly operated on mobile devices and across various browsers.
-- 🏢 Assumed a leadership role as the team grew.
+### Global Solution Armenia (Senior Frontend Developer)
+- 🌍 Worked with different technologies such as JavaScript, TypeScript, Angular, Vue.js, and React.js.
+- 🤝 Communicated directly with clients to ensure projects were completed to satisfaction and on time.
+- 👨‍🏫 Mentored and guided interns, teaching them the necessary skills and knowledge for real tasks.
 
-### Ludia (Senior Frontend Developer)
-- 🎮 Worked on the internal web application that supervised and managed the company's games, utilizing Angular for development and maintenance.
-- 🚀 Developed and maintained the internal web application for game management.
-- 🔄 Collaborated on agile projects using JIRA, Confluence, Bitbucket.
+### PayGear (Mid Frontend Developer)
+- 🚀 Worked with Angular.js, Bootstrap, and Gulp.js.
+- ⚡ Successfully migrated the project to Angular 2+ (specifically Angular 4).
+- 🌟 Expanded skill set with Vue.js, Nuxt.js, Node.js, Express.js, and MongoDB through a merger with another startup.
 
 ## 🌎 Relocation
 Life is an adventure, and I embrace it fully! 🚀 My journey began in Iran, where I took my first steps into the world of programming. Later, I moved to Armenia, where I met my amazing wife and further expanded my skills. Together, we embarked on a new chapter in Montreal, QC, Canada, embracing new opportunities and cultural experiences. And now, we have found our home in the vibrant city of Austin, TX, USA.
@@ -72,5 +76,3 @@ Additionally, I had the opportunity to contribute to other web3 projects such as
 
 ## 🔗 LinkedIn
 You can find my LinkedIn profile at [linkedin.com/in/r29taheri/](https://www.linkedin.com/in/r29taheri/).
-
-Let's connect and create amazing things together! ✨
